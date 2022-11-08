@@ -17,6 +17,6 @@
 </div>
 
 <h1> View Live Demo </h1>
-<a style="color: #e3bb1c;" href="https://blairnft.netlify.app/"><h3 style="color: #e3bb1c;">Blair NFT Store </h3></a>
+<h3 style="color: #e3bb1c;"><a style="color: #e3bb1c;" href="https://blairnft.netlify.app/">Blair NFT Store </a></h3>
 
 ![nft screenshot](https://user-images.githubusercontent.com/88805312/200400416-42ad5668-af50-4059-a088-98ac52561bc1.png)
